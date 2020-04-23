@@ -7,7 +7,7 @@ setup(
     version = '0.1',
     description = "This is a convinence tool for pcap analysis",
     author = 'Jun Liu',
-    author_email = "liujun.live@live.com",
+    author_email = "liujun.gz@live.com",
     package_dir = "pcaptools"
     
 )
